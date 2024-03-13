@@ -1,0 +1,1697 @@
+{
+  "build": "py312h2bbff1b_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "freetype >=2.10.4,<3.0a0",
+    "jpeg >=9e,<10a",
+    "libtiff >=4.2.0,<5.0a0",
+    "libwebp-base >=1.3.2,<2.0a0",
+    "openjpeg >=2.3.0,<3.0a0",
+    "python >=3.12,<3.13.0a0",
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0",
+    "zlib >=1.2.13,<1.3.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\Vaibhav Saini\\.conda\\pkgs\\pillow-10.2.0-py312h2bbff1b_0",
+  "files": [
+    "Lib/site-packages/PIL/BdfFontFile.py",
+    "Lib/site-packages/PIL/BlpImagePlugin.py",
+    "Lib/site-packages/PIL/BmpImagePlugin.py",
+    "Lib/site-packages/PIL/BufrStubImagePlugin.py",
+    "Lib/site-packages/PIL/ContainerIO.py",
+    "Lib/site-packages/PIL/CurImagePlugin.py",
+    "Lib/site-packages/PIL/DcxImagePlugin.py",
+    "Lib/site-packages/PIL/DdsImagePlugin.py",
+    "Lib/site-packages/PIL/EpsImagePlugin.py",
+    "Lib/site-packages/PIL/ExifTags.py",
+    "Lib/site-packages/PIL/FitsImagePlugin.py",
+    "Lib/site-packages/PIL/FliImagePlugin.py",
+    "Lib/site-packages/PIL/FontFile.py",
+    "Lib/site-packages/PIL/FpxImagePlugin.py",
+    "Lib/site-packages/PIL/FtexImagePlugin.py",
+    "Lib/site-packages/PIL/GbrImagePlugin.py",
+    "Lib/site-packages/PIL/GdImageFile.py",
+    "Lib/site-packages/PIL/GifImagePlugin.py",
+    "Lib/site-packages/PIL/GimpGradientFile.py",
+    "Lib/site-packages/PIL/GimpPaletteFile.py",
+    "Lib/site-packages/PIL/GribStubImagePlugin.py",
+    "Lib/site-packages/PIL/Hdf5StubImagePlugin.py",
+    "Lib/site-packages/PIL/IcnsImagePlugin.py",
+    "Lib/site-packages/PIL/IcoImagePlugin.py",
+    "Lib/site-packages/PIL/ImImagePlugin.py",
+    "Lib/site-packages/PIL/Image.py",
+    "Lib/site-packages/PIL/ImageChops.py",
+    "Lib/site-packages/PIL/ImageCms.py",
+    "Lib/site-packages/PIL/ImageColor.py",
+    "Lib/site-packages/PIL/ImageDraw.py",
+    "Lib/site-packages/PIL/ImageDraw2.py",
+    "Lib/site-packages/PIL/ImageEnhance.py",
+    "Lib/site-packages/PIL/ImageFile.py",
+    "Lib/site-packages/PIL/ImageFilter.py",
+    "Lib/site-packages/PIL/ImageFont.py",
+    "Lib/site-packages/PIL/ImageGrab.py",
+    "Lib/site-packages/PIL/ImageMath.py",
+    "Lib/site-packages/PIL/ImageMode.py",
+    "Lib/site-packages/PIL/ImageMorph.py",
+    "Lib/site-packages/PIL/ImageOps.py",
+    "Lib/site-packages/PIL/ImagePalette.py",
+    "Lib/site-packages/PIL/ImagePath.py",
+    "Lib/site-packages/PIL/ImageQt.py",
+    "Lib/site-packages/PIL/ImageSequence.py",
+    "Lib/site-packages/PIL/ImageShow.py",
+    "Lib/site-packages/PIL/ImageStat.py",
+    "Lib/site-packages/PIL/ImageTk.py",
+    "Lib/site-packages/PIL/ImageTransform.py",
+    "Lib/site-packages/PIL/ImageWin.py",
+    "Lib/site-packages/PIL/ImtImagePlugin.py",
+    "Lib/site-packages/PIL/IptcImagePlugin.py",
+    "Lib/site-packages/PIL/Jpeg2KImagePlugin.py",
+    "Lib/site-packages/PIL/JpegImagePlugin.py",
+    "Lib/site-packages/PIL/JpegPresets.py",
+    "Lib/site-packages/PIL/McIdasImagePlugin.py",
+    "Lib/site-packages/PIL/MicImagePlugin.py",
+    "Lib/site-packages/PIL/MpegImagePlugin.py",
+    "Lib/site-packages/PIL/MpoImagePlugin.py",
+    "Lib/site-packages/PIL/MspImagePlugin.py",
+    "Lib/site-packages/PIL/PSDraw.py",
+    "Lib/site-packages/PIL/PaletteFile.py",
+    "Lib/site-packages/PIL/PalmImagePlugin.py",
+    "Lib/site-packages/PIL/PcdImagePlugin.py",
+    "Lib/site-packages/PIL/PcfFontFile.py",
+    "Lib/site-packages/PIL/PcxImagePlugin.py",
+    "Lib/site-packages/PIL/PdfImagePlugin.py",
+    "Lib/site-packages/PIL/PdfParser.py",
+    "Lib/site-packages/PIL/PixarImagePlugin.py",
+    "Lib/site-packages/PIL/PngImagePlugin.py",
+    "Lib/site-packages/PIL/PpmImagePlugin.py",
+    "Lib/site-packages/PIL/PsdImagePlugin.py",
+    "Lib/site-packages/PIL/PyAccess.py",
+    "Lib/site-packages/PIL/QoiImagePlugin.py",
+    "Lib/site-packages/PIL/SgiImagePlugin.py",
+    "Lib/site-packages/PIL/SpiderImagePlugin.py",
+    "Lib/site-packages/PIL/SunImagePlugin.py",
+    "Lib/site-packages/PIL/TarIO.py",
+    "Lib/site-packages/PIL/TgaImagePlugin.py",
+    "Lib/site-packages/PIL/TiffImagePlugin.py",
+    "Lib/site-packages/PIL/TiffTags.py",
+    "Lib/site-packages/PIL/WalImageFile.py",
+    "Lib/site-packages/PIL/WebPImagePlugin.py",
+    "Lib/site-packages/PIL/WmfImagePlugin.py",
+    "Lib/site-packages/PIL/XVThumbImagePlugin.py",
+    "Lib/site-packages/PIL/XbmImagePlugin.py",
+    "Lib/site-packages/PIL/XpmImagePlugin.py",
+    "Lib/site-packages/PIL/__init__.py",
+    "Lib/site-packages/PIL/__main__.py",
+    "Lib/site-packages/PIL/__pycache__/BdfFontFile.cpython-312.pyc",
+    "Lib/site-packages/PIL/__pycache__/BlpImagePlugin.cpython-312.pyc",
+    "Lib/site-packages/PIL/__pycache__/BmpImagePlugin.cpython-312.pyc",
+    "Lib/site-packages/PIL/__pycache__/BufrStubImagePlugin.cpython-312.pyc",
+    "Lib/site-packages/PIL/__pycache__/ContainerIO.cpython-312.pyc",
+    "Lib/site-packages/PIL/__pycache__/CurImagePlugin.cpython-312.pyc",
+    "Lib/site-packages/PIL/__pycache__/DcxImagePlugin.cpython-312.pyc",
+    "Lib/site-packages/PIL/__pycache__/DdsImagePlugin.cpython-312.pyc",
+    "Lib/site-packages/PIL/__pycache__/EpsImagePlugin.cpython-312.pyc",
+    "Lib/site-packages/PIL/__pycache__/ExifTags.cpython-312.pyc",
+    "Lib/site-packages/PIL/__pycache__/FitsImagePlugin.cpython-312.pyc",
+    "Lib/site-packages/PIL/__pycache__/FliImagePlugin.cpython-312.pyc",
+    "Lib/site-packages/PIL/__pycache__/FontFile.cpython-312.pyc",
+    "Lib/site-packages/PIL/__pycache__/FpxImagePlugin.cpython-312.pyc",
+    "Lib/site-packages/PIL/__pycache__/FtexImagePlugin.cpython-312.pyc",
+    "Lib/site-packages/PIL/__pycache__/GbrImagePlugin.cpython-312.pyc",
+    "Lib/site-packages/PIL/__pycache__/GdImageFile.cpython-312.pyc",
+    "Lib/site-packages/PIL/__pycache__/GifImagePlugin.cpython-312.pyc",
+    "Lib/site-packages/PIL/__pycache__/GimpGradientFile.cpython-312.pyc",
+    "Lib/site-packages/PIL/__pycache__/GimpPaletteFile.cpython-312.pyc",
+    "Lib/site-packages/PIL/__pycache__/GribStubImagePlugin.cpython-312.pyc",
+    "Lib/site-packages/PIL/__pycache__/Hdf5StubImagePlugin.cpython-312.pyc",
+    "Lib/site-packages/PIL/__pycache__/IcnsImagePlugin.cpython-312.pyc",
+    "Lib/site-packages/PIL/__pycache__/IcoImagePlugin.cpython-312.pyc",
+    "Lib/site-packages/PIL/__pycache__/ImImagePlugin.cpython-312.pyc",
+    "Lib/site-packages/PIL/__pycache__/Image.cpython-312.pyc",
+    "Lib/site-packages/PIL/__pycache__/ImageChops.cpython-312.pyc",
+    "Lib/site-packages/PIL/__pycache__/ImageCms.cpython-312.pyc",
+    "Lib/site-packages/PIL/__pycache__/ImageColor.cpython-312.pyc",
+    "Lib/site-packages/PIL/__pycache__/ImageDraw.cpython-312.pyc",
+    "Lib/site-packages/PIL/__pycache__/ImageDraw2.cpython-312.pyc",
+    "Lib/site-packages/PIL/__pycache__/ImageEnhance.cpython-312.pyc",
+    "Lib/site-packages/PIL/__pycache__/ImageFile.cpython-312.pyc",
+    "Lib/site-packages/PIL/__pycache__/ImageFilter.cpython-312.pyc",
+    "Lib/site-packages/PIL/__pycache__/ImageFont.cpython-312.pyc",
+    "Lib/site-packages/PIL/__pycache__/ImageGrab.cpython-312.pyc",
+    "Lib/site-packages/PIL/__pycache__/ImageMath.cpython-312.pyc",
+    "Lib/site-packages/PIL/__pycache__/ImageMode.cpython-312.pyc",
+    "Lib/site-packages/PIL/__pycache__/ImageMorph.cpython-312.pyc",
+    "Lib/site-packages/PIL/__pycache__/ImageOps.cpython-312.pyc",
+    "Lib/site-packages/PIL/__pycache__/ImagePalette.cpython-312.pyc",
+    "Lib/site-packages/PIL/__pycache__/ImagePath.cpython-312.pyc",
+    "Lib/site-packages/PIL/__pycache__/ImageQt.cpython-312.pyc",
+    "Lib/site-packages/PIL/__pycache__/ImageSequence.cpython-312.pyc",
+    "Lib/site-packages/PIL/__pycache__/ImageShow.cpython-312.pyc",
+    "Lib/site-packages/PIL/__pycache__/ImageStat.cpython-312.pyc",
+    "Lib/site-packages/PIL/__pycache__/ImageTk.cpython-312.pyc",
+    "Lib/site-packages/PIL/__pycache__/ImageTransform.cpython-312.pyc",
+    "Lib/site-packages/PIL/__pycache__/ImageWin.cpython-312.pyc",
+    "Lib/site-packages/PIL/__pycache__/ImtImagePlugin.cpython-312.pyc",
+    "Lib/site-packages/PIL/__pycache__/IptcImagePlugin.cpython-312.pyc",
+    "Lib/site-packages/PIL/__pycache__/Jpeg2KImagePlugin.cpython-312.pyc",
+    "Lib/site-packages/PIL/__pycache__/JpegImagePlugin.cpython-312.pyc",
+    "Lib/site-packages/PIL/__pycache__/JpegPresets.cpython-312.pyc",
+    "Lib/site-packages/PIL/__pycache__/McIdasImagePlugin.cpython-312.pyc",
+    "Lib/site-packages/PIL/__pycache__/MicImagePlugin.cpython-312.pyc",
+    "Lib/site-packages/PIL/__pycache__/MpegImagePlugin.cpython-312.pyc",
+    "Lib/site-packages/PIL/__pycache__/MpoImagePlugin.cpython-312.pyc",
+    "Lib/site-packages/PIL/__pycache__/MspImagePlugin.cpython-312.pyc",
+    "Lib/site-packages/PIL/__pycache__/PSDraw.cpython-312.pyc",
+    "Lib/site-packages/PIL/__pycache__/PaletteFile.cpython-312.pyc",
+    "Lib/site-packages/PIL/__pycache__/PalmImagePlugin.cpython-312.pyc",
+    "Lib/site-packages/PIL/__pycache__/PcdImagePlugin.cpython-312.pyc",
+    "Lib/site-packages/PIL/__pycache__/PcfFontFile.cpython-312.pyc",
+    "Lib/site-packages/PIL/__pycache__/PcxImagePlugin.cpython-312.pyc",
+    "Lib/site-packages/PIL/__pycache__/PdfImagePlugin.cpython-312.pyc",
+    "Lib/site-packages/PIL/__pycache__/PdfParser.cpython-312.pyc",
+    "Lib/site-packages/PIL/__pycache__/PixarImagePlugin.cpython-312.pyc",
+    "Lib/site-packages/PIL/__pycache__/PngImagePlugin.cpython-312.pyc",
+    "Lib/site-packages/PIL/__pycache__/PpmImagePlugin.cpython-312.pyc",
+    "Lib/site-packages/PIL/__pycache__/PsdImagePlugin.cpython-312.pyc",
+    "Lib/site-packages/PIL/__pycache__/PyAccess.cpython-312.pyc",
+    "Lib/site-packages/PIL/__pycache__/QoiImagePlugin.cpython-312.pyc",
+    "Lib/site-packages/PIL/__pycache__/SgiImagePlugin.cpython-312.pyc",
+    "Lib/site-packages/PIL/__pycache__/SpiderImagePlugin.cpython-312.pyc",
+    "Lib/site-packages/PIL/__pycache__/SunImagePlugin.cpython-312.pyc",
+    "Lib/site-packages/PIL/__pycache__/TarIO.cpython-312.pyc",
+    "Lib/site-packages/PIL/__pycache__/TgaImagePlugin.cpython-312.pyc",
+    "Lib/site-packages/PIL/__pycache__/TiffImagePlugin.cpython-312.pyc",
+    "Lib/site-packages/PIL/__pycache__/TiffTags.cpython-312.pyc",
+    "Lib/site-packages/PIL/__pycache__/WalImageFile.cpython-312.pyc",
+    "Lib/site-packages/PIL/__pycache__/WebPImagePlugin.cpython-312.pyc",
+    "Lib/site-packages/PIL/__pycache__/WmfImagePlugin.cpython-312.pyc",
+    "Lib/site-packages/PIL/__pycache__/XVThumbImagePlugin.cpython-312.pyc",
+    "Lib/site-packages/PIL/__pycache__/XbmImagePlugin.cpython-312.pyc",
+    "Lib/site-packages/PIL/__pycache__/XpmImagePlugin.cpython-312.pyc",
+    "Lib/site-packages/PIL/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/PIL/__pycache__/__main__.cpython-312.pyc",
+    "Lib/site-packages/PIL/__pycache__/_binary.cpython-312.pyc",
+    "Lib/site-packages/PIL/__pycache__/_deprecate.cpython-312.pyc",
+    "Lib/site-packages/PIL/__pycache__/_tkinter_finder.cpython-312.pyc",
+    "Lib/site-packages/PIL/__pycache__/_typing.cpython-312.pyc",
+    "Lib/site-packages/PIL/__pycache__/_util.cpython-312.pyc",
+    "Lib/site-packages/PIL/__pycache__/_version.cpython-312.pyc",
+    "Lib/site-packages/PIL/__pycache__/features.cpython-312.pyc",
+    "Lib/site-packages/PIL/_binary.py",
+    "Lib/site-packages/PIL/_deprecate.py",
+    "Lib/site-packages/PIL/_imaging.cp312-win_amd64.pyd",
+    "Lib/site-packages/PIL/_imagingcms.pyi",
+    "Lib/site-packages/PIL/_imagingft.cp312-win_amd64.pyd",
+    "Lib/site-packages/PIL/_imagingft.pyi",
+    "Lib/site-packages/PIL/_imagingmath.cp312-win_amd64.pyd",
+    "Lib/site-packages/PIL/_imagingmorph.cp312-win_amd64.pyd",
+    "Lib/site-packages/PIL/_imagingtk.cp312-win_amd64.pyd",
+    "Lib/site-packages/PIL/_tkinter_finder.py",
+    "Lib/site-packages/PIL/_typing.py",
+    "Lib/site-packages/PIL/_util.py",
+    "Lib/site-packages/PIL/_version.py",
+    "Lib/site-packages/PIL/_webp.cp312-win_amd64.pyd",
+    "Lib/site-packages/PIL/features.py",
+    "Lib/site-packages/pillow-10.2.0.dist-info/INSTALLER",
+    "Lib/site-packages/pillow-10.2.0.dist-info/LICENSE",
+    "Lib/site-packages/pillow-10.2.0.dist-info/METADATA",
+    "Lib/site-packages/pillow-10.2.0.dist-info/RECORD",
+    "Lib/site-packages/pillow-10.2.0.dist-info/REQUESTED",
+    "Lib/site-packages/pillow-10.2.0.dist-info/WHEEL",
+    "Lib/site-packages/pillow-10.2.0.dist-info/direct_url.json",
+    "Lib/site-packages/pillow-10.2.0.dist-info/top_level.txt",
+    "Lib/site-packages/pillow-10.2.0.dist-info/zip-safe"
+  ],
+  "fn": "pillow-10.2.0-py312h2bbff1b_0.conda",
+  "license": "HPND AND TCL",
+  "link": {
+    "source": "C:\\Users\\Vaibhav Saini\\.conda\\pkgs\\pillow-10.2.0-py312h2bbff1b_0",
+    "type": 1
+  },
+  "md5": "45999fd40efa131b49fe9076924bf586",
+  "name": "pillow",
+  "package_tarball_full_path": "C:\\Users\\Vaibhav Saini\\.conda\\pkgs\\pillow-10.2.0-py312h2bbff1b_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/PIL/BdfFontFile.py",
+        "path_type": "hardlink",
+        "sha256": "0a0589b4b09c8aeaa092945e74efb4c6f218b047be006531b3993d0066e594f8",
+        "sha256_in_prefix": "0a0589b4b09c8aeaa092945e74efb4c6f218b047be006531b3993d0066e594f8",
+        "size_in_bytes": 3469
+      },
+      {
+        "_path": "Lib/site-packages/PIL/BlpImagePlugin.py",
+        "path_type": "hardlink",
+        "sha256": "02eccac8c13cfa51aeb31856370f86cb88b93a22b9f0151fdf8d46ac9c08bda7",
+        "sha256_in_prefix": "02eccac8c13cfa51aeb31856370f86cb88b93a22b9f0151fdf8d46ac9c08bda7",
+        "size_in_bytes": 15569
+      },
+      {
+        "_path": "Lib/site-packages/PIL/BmpImagePlugin.py",
+        "path_type": "hardlink",
+        "sha256": "ac11b450c9b0107eec9de30b45d6572ea65b88f1566c60cbce18140eadb2dc62",
+        "sha256_in_prefix": "ac11b450c9b0107eec9de30b45d6572ea65b88f1566c60cbce18140eadb2dc62",
+        "size_in_bytes": 17699
+      },
+      {
+        "_path": "Lib/site-packages/PIL/BufrStubImagePlugin.py",
+        "path_type": "hardlink",
+        "sha256": "e9bf393eedbc75c6cb01a08264759f851900539fbf27b94c595462f82e909cf7",
+        "sha256_in_prefix": "e9bf393eedbc75c6cb01a08264759f851900539fbf27b94c595462f82e909cf7",
+        "size_in_bytes": 1592
+      },
+      {
+        "_path": "Lib/site-packages/PIL/ContainerIO.py",
+        "path_type": "hardlink",
+        "sha256": "d251cfcc998ea96c765cafe80507a2c016ebf18eb14f5f3663bdaaff28fac08a",
+        "sha256_in_prefix": "d251cfcc998ea96c765cafe80507a2c016ebf18eb14f5f3663bdaaff28fac08a",
+        "size_in_bytes": 3181
+      },
+      {
+        "_path": "Lib/site-packages/PIL/CurImagePlugin.py",
+        "path_type": "hardlink",
+        "sha256": "f5a21788db935640345a570f6f9ab90b96620d570605e23e11fb0fe458ed3fc5",
+        "sha256_in_prefix": "f5a21788db935640345a570f6f9ab90b96620d570605e23e11fb0fe458ed3fc5",
+        "size_in_bytes": 1741
+      },
+      {
+        "_path": "Lib/site-packages/PIL/DcxImagePlugin.py",
+        "path_type": "hardlink",
+        "sha256": "03702ffd45cc191e7523c4e60504c92105322db2d4c14868d201ca0c4408229d",
+        "sha256_in_prefix": "03702ffd45cc191e7523c4e60504c92105322db2d4c14868d201ca0c4408229d",
+        "size_in_bytes": 1993
+      },
+      {
+        "_path": "Lib/site-packages/PIL/DdsImagePlugin.py",
+        "path_type": "hardlink",
+        "sha256": "f04a5316b60acb8f739b573cae17fe4ece6abb34970e11b47fb2557941286e0d",
+        "sha256_in_prefix": "f04a5316b60acb8f739b573cae17fe4ece6abb34970e11b47fb2557941286e0d",
+        "size_in_bytes": 16539
+      },
+      {
+        "_path": "Lib/site-packages/PIL/EpsImagePlugin.py",
+        "path_type": "hardlink",
+        "sha256": "d9192d5199631b6edee5e2d901703ab51211169b2175c583ebf2571c2978c0d7",
+        "sha256_in_prefix": "d9192d5199631b6edee5e2d901703ab51211169b2175c583ebf2571c2978c0d7",
+        "size_in_bytes": 15919
+      },
+      {
+        "_path": "Lib/site-packages/PIL/ExifTags.py",
+        "path_type": "hardlink",
+        "sha256": "cee31a7b1c892d3b6e55994ebf8dff3fba91ed83208c77dfbbb48ea4f76f3771",
+        "sha256_in_prefix": "cee31a7b1c892d3b6e55994ebf8dff3fba91ed83208c77dfbbb48ea4f76f3771",
+        "size_in_bytes": 9753
+      },
+      {
+        "_path": "Lib/site-packages/PIL/FitsImagePlugin.py",
+        "path_type": "hardlink",
+        "sha256": "93319d74f70567ec23661bf8f261effb303c4951bdae5c88cadcd0eb339d1b20",
+        "sha256_in_prefix": "93319d74f70567ec23661bf8f261effb303c4951bdae5c88cadcd0eb339d1b20",
+        "size_in_bytes": 2000
+      },
+      {
+        "_path": "Lib/site-packages/PIL/FliImagePlugin.py",
+        "path_type": "hardlink",
+        "sha256": "09ee2584d09faf3965796386b3bbc698b5f7c2e97bb8b20ead5c4723fb9fb1b5",
+        "sha256_in_prefix": "09ee2584d09faf3965796386b3bbc698b5f7c2e97bb8b20ead5c4723fb9fb1b5",
+        "size_in_bytes": 4523
+      },
+      {
+        "_path": "Lib/site-packages/PIL/FontFile.py",
+        "path_type": "hardlink",
+        "sha256": "70403b4502a931cb174db4cbada058356133d8ddf1e3baf3d157989e58f9532c",
+        "sha256_in_prefix": "70403b4502a931cb174db4cbada058356133d8ddf1e3baf3d157989e58f9532c",
+        "size_in_bytes": 3591
+      },
+      {
+        "_path": "Lib/site-packages/PIL/FpxImagePlugin.py",
+        "path_type": "hardlink",
+        "sha256": "99768d4e6a93471f2fd98ac0e6e8d3df53e1f76a5d428d3cd9fa92b462cb4138",
+        "sha256_in_prefix": "99768d4e6a93471f2fd98ac0e6e8d3df53e1f76a5d428d3cd9fa92b462cb4138",
+        "size_in_bytes": 6983
+      },
+      {
+        "_path": "Lib/site-packages/PIL/FtexImagePlugin.py",
+        "path_type": "hardlink",
+        "sha256": "512386244faa6dbcf68b692ab206e135ee4c91eb0eac2603343901f8c0c2a0e8",
+        "sha256_in_prefix": "512386244faa6dbcf68b692ab206e135ee4c91eb0eac2603343901f8c0c2a0e8",
+        "size_in_bytes": 3465
+      },
+      {
+        "_path": "Lib/site-packages/PIL/GbrImagePlugin.py",
+        "path_type": "hardlink",
+        "sha256": "78c0a919bbfb93590efa8d0bc5f59b3e2bd5396f39b31ce18fcd26efd290aa56",
+        "sha256_in_prefix": "78c0a919bbfb93590efa8d0bc5f59b3e2bd5396f39b31ce18fcd26efd290aa56",
+        "size_in_bytes": 2945
+      },
+      {
+        "_path": "Lib/site-packages/PIL/GdImageFile.py",
+        "path_type": "hardlink",
+        "sha256": "48d073100c9921e618b9efe022e7b8360af41bddd611272c896339871758be4f",
+        "sha256_in_prefix": "48d073100c9921e618b9efe022e7b8360af41bddd611272c896339871758be4f",
+        "size_in_bytes": 2642
+      },
+      {
+        "_path": "Lib/site-packages/PIL/GifImagePlugin.py",
+        "path_type": "hardlink",
+        "sha256": "b37e224ba7d5d24cf8b43ef79c20016d2ba89e8eef9364b455d4c9976d930071",
+        "sha256_in_prefix": "b37e224ba7d5d24cf8b43ef79c20016d2ba89e8eef9364b455d4c9976d930071",
+        "size_in_bytes": 37203
+      },
+      {
+        "_path": "Lib/site-packages/PIL/GimpGradientFile.py",
+        "path_type": "hardlink",
+        "sha256": "b6c8edc23605ebaf9b7f55cdb13339c08e88c7fc033830cee13b030215610385",
+        "sha256_in_prefix": "b6c8edc23605ebaf9b7f55cdb13339c08e88c7fc033830cee13b030215610385",
+        "size_in_bytes": 3430
+      },
+      {
+        "_path": "Lib/site-packages/PIL/GimpPaletteFile.py",
+        "path_type": "hardlink",
+        "sha256": "704833c31584ed49f879cb5e3ae290b4e0b35ca9c3641d570543ebf1e385ca6c",
+        "sha256_in_prefix": "704833c31584ed49f879cb5e3ae290b4e0b35ca9c3641d570543ebf1e385ca6c",
+        "size_in_bytes": 1380
+      },
+      {
+        "_path": "Lib/site-packages/PIL/GribStubImagePlugin.py",
+        "path_type": "hardlink",
+        "sha256": "fd117928a4a10e297a7f5641a6907167d643ccbcc0e127c5f0d5343b7b31a969",
+        "sha256_in_prefix": "fd117928a4a10e297a7f5641a6907167d643ccbcc0e127c5f0d5343b7b31a969",
+        "size_in_bytes": 1586
+      },
+      {
+        "_path": "Lib/site-packages/PIL/Hdf5StubImagePlugin.py",
+        "path_type": "hardlink",
+        "sha256": "472736a5138ad59bfaec93ac36a58d73af6a8d7e0479f7672d9a25af2116e192",
+        "sha256_in_prefix": "472736a5138ad59bfaec93ac36a58d73af6a8d7e0479f7672d9a25af2116e192",
+        "size_in_bytes": 1589
+      },
+      {
+        "_path": "Lib/site-packages/PIL/IcnsImagePlugin.py",
+        "path_type": "hardlink",
+        "sha256": "2af23b19420f8d41ef8e01626f4f179ebf92f798c9138edf96ba4468a1867c29",
+        "sha256_in_prefix": "2af23b19420f8d41ef8e01626f4f179ebf92f798c9138edf96ba4468a1867c29",
+        "size_in_bytes": 11996
+      },
+      {
+        "_path": "Lib/site-packages/PIL/IcoImagePlugin.py",
+        "path_type": "hardlink",
+        "sha256": "1e2e638771fa1fed5f73cab80ab84dc4ba97cd9bb806359931d16b4c21f9a748",
+        "sha256_in_prefix": "1e2e638771fa1fed5f73cab80ab84dc4ba97cd9bb806359931d16b4c21f9a748",
+        "size_in_bytes": 11574
+      },
+      {
+        "_path": "Lib/site-packages/PIL/ImImagePlugin.py",
+        "path_type": "hardlink",
+        "sha256": "97b3c3fdf6d31037dbab319ba3c3e2afa12e7734ef9c518e5565f26246406026",
+        "sha256_in_prefix": "97b3c3fdf6d31037dbab319ba3c3e2afa12e7734ef9c518e5565f26246406026",
+        "size_in_bytes": 10904
+      },
+      {
+        "_path": "Lib/site-packages/PIL/Image.py",
+        "path_type": "hardlink",
+        "sha256": "6ddaaf3db154a9fc2eca65aa9e1af8efe6c9fa191ae63a25463f09d79abd96c0",
+        "sha256_in_prefix": "6ddaaf3db154a9fc2eca65aa9e1af8efe6c9fa191ae63a25463f09d79abd96c0",
+        "size_in_bytes": 134480
+      },
+      {
+        "_path": "Lib/site-packages/PIL/ImageChops.py",
+        "path_type": "hardlink",
+        "sha256": "1848e5ca67280ed03938e788c505485fde810feb3a01785bed39922d89f6b548",
+        "sha256_in_prefix": "1848e5ca67280ed03938e788c505485fde810feb3a01785bed39922d89f6b548",
+        "size_in_bytes": 7946
+      },
+      {
+        "_path": "Lib/site-packages/PIL/ImageCms.py",
+        "path_type": "hardlink",
+        "sha256": "eae2750d7c4962cb4349c91c8057adcc02834309060a3ad0f2e2f2e62cfbbe75",
+        "sha256_in_prefix": "eae2750d7c4962cb4349c91c8057adcc02834309060a3ad0f2e2f2e62cfbbe75",
+        "size_in_bytes": 37181
+      },
+      {
+        "_path": "Lib/site-packages/PIL/ImageColor.py",
+        "path_type": "hardlink",
+        "sha256": "d0571b27c3fbf47c0465e0fcda1650f3cf0a32d5b90960ed7aebaf2daa6db81f",
+        "sha256_in_prefix": "d0571b27c3fbf47c0465e0fcda1650f3cf0a32d5b90960ed7aebaf2daa6db81f",
+        "size_in_bytes": 9173
+      },
+      {
+        "_path": "Lib/site-packages/PIL/ImageDraw.py",
+        "path_type": "hardlink",
+        "sha256": "1efc489b060803220f9f22c00e25350cc343711f6376d4d8043fba4544b86329",
+        "sha256_in_prefix": "1efc489b060803220f9f22c00e25350cc343711f6376d4d8043fba4544b86329",
+        "size_in_bytes": 36435
+      },
+      {
+        "_path": "Lib/site-packages/PIL/ImageDraw2.py",
+        "path_type": "hardlink",
+        "sha256": "99b1b8cf00bab42a4cc1e6b87f35cb08ed9d4fb0f8152e50bb80b99f55eea44d",
+        "sha256_in_prefix": "99b1b8cf00bab42a4cc1e6b87f35cb08ed9d4fb0f8152e50bb80b99f55eea44d",
+        "size_in_bytes": 5535
+      },
+      {
+        "_path": "Lib/site-packages/PIL/ImageEnhance.py",
+        "path_type": "hardlink",
+        "sha256": "dac0bdf48b7e21fdecebd4734dd0d557494bb1c744d0fe596cd7e53b39ba14f1",
+        "sha256_in_prefix": "dac0bdf48b7e21fdecebd4734dd0d557494bb1c744d0fe596cd7e53b39ba14f1",
+        "size_in_bytes": 3225
+      },
+      {
+        "_path": "Lib/site-packages/PIL/ImageFile.py",
+        "path_type": "hardlink",
+        "sha256": "147580efcdab42a6db3a3a0da38b96f2adc503a1cbae26aba59a40b8406d00be",
+        "sha256_in_prefix": "147580efcdab42a6db3a3a0da38b96f2adc503a1cbae26aba59a40b8406d00be",
+        "size_in_bytes": 24345
+      },
+      {
+        "_path": "Lib/site-packages/PIL/ImageFilter.py",
+        "path_type": "hardlink",
+        "sha256": "1db4421b3fc4ad252ce1b4fda8fd1e83981fafc7c1ff89c69c48cf3fc9d170d3",
+        "sha256_in_prefix": "1db4421b3fc4ad252ce1b4fda8fd1e83981fafc7c1ff89c69c48cf3fc9d170d3",
+        "size_in_bytes": 17143
+      },
+      {
+        "_path": "Lib/site-packages/PIL/ImageFont.py",
+        "path_type": "hardlink",
+        "sha256": "5b6ba85d13f04abf4687fda4479232736ad07f0bb81b1a367a33e465c58facb8",
+        "sha256_in_prefix": "5b6ba85d13f04abf4687fda4479232736ad07f0bb81b1a367a33e465c58facb8",
+        "size_in_bytes": 60840
+      },
+      {
+        "_path": "Lib/site-packages/PIL/ImageGrab.py",
+        "path_type": "hardlink",
+        "sha256": "e430e13743e153e2480c1ae3a285d49cf953008c60704f62361e42de859ec747",
+        "sha256_in_prefix": "e430e13743e153e2480c1ae3a285d49cf953008c60704f62361e42de859ec747",
+        "size_in_bytes": 5630
+      },
+      {
+        "_path": "Lib/site-packages/PIL/ImageMath.py",
+        "path_type": "hardlink",
+        "sha256": "4eaccb3f66f08fa154eaf7a5f27aa857ae35f7474182be60ab0ef7be01be2908",
+        "sha256_in_prefix": "4eaccb3f66f08fa154eaf7a5f27aa857ae35f7474182be60ab0ef7be01be2908",
+        "size_in_bytes": 7509
+      },
+      {
+        "_path": "Lib/site-packages/PIL/ImageMode.py",
+        "path_type": "hardlink",
+        "sha256": "6aa4c1a93fc6aab941a346b36829843f31e3ea96ac76d9366960c61a76b499e0",
+        "sha256_in_prefix": "6aa4c1a93fc6aab941a346b36829843f31e3ea96ac76d9366960c61a76b499e0",
+        "size_in_bytes": 2770
+      },
+      {
+        "_path": "Lib/site-packages/PIL/ImageMorph.py",
+        "path_type": "hardlink",
+        "sha256": "8d421964c8dfbf123696c13919e349685be5eeb23309163f5f1b95b3b7fa2e6f",
+        "sha256_in_prefix": "8d421964c8dfbf123696c13919e349685be5eeb23309163f5f1b95b3b7fa2e6f",
+        "size_in_bytes": 8012
+      },
+      {
+        "_path": "Lib/site-packages/PIL/ImageOps.py",
+        "path_type": "hardlink",
+        "sha256": "b92e8392833d95a36a3599b4ac066dd9ba1f9dbe0ffb5e868e4a54d00cf528aa",
+        "sha256_in_prefix": "b92e8392833d95a36a3599b4ac066dd9ba1f9dbe0ffb5e868e4a54d00cf528aa",
+        "size_in_bytes": 22458
+      },
+      {
+        "_path": "Lib/site-packages/PIL/ImagePalette.py",
+        "path_type": "hardlink",
+        "sha256": "441b03042d6424711ce4eb83688ba9e3c36e2f1152388656b6a18e01926f8fb8",
+        "sha256_in_prefix": "441b03042d6424711ce4eb83688ba9e3c36e2f1152388656b6a18e01926f8fb8",
+        "size_in_bytes": 7763
+      },
+      {
+        "_path": "Lib/site-packages/PIL/ImagePath.py",
+        "path_type": "hardlink",
+        "sha256": "e72506e570948a5d4a2934c0ffc3e01a172683e9a7b9ef862b41704c19618f0e",
+        "sha256_in_prefix": "e72506e570948a5d4a2934c0ffc3e01a172683e9a7b9ef862b41704c19618f0e",
+        "size_in_bytes": 371
+      },
+      {
+        "_path": "Lib/site-packages/PIL/ImageQt.py",
+        "path_type": "hardlink",
+        "sha256": "0e1501a85690afc4c61d90183ce358fdd81a382eefc67533533b1525141a298a",
+        "sha256_in_prefix": "0e1501a85690afc4c61d90183ce358fdd81a382eefc67533533b1525141a298a",
+        "size_in_bytes": 5745
+      },
+      {
+        "_path": "Lib/site-packages/PIL/ImageSequence.py",
+        "path_type": "hardlink",
+        "sha256": "8fe8b71f1b81aa45453cf65245eac27919640181b4a2b16459cf661b92216123",
+        "sha256_in_prefix": "8fe8b71f1b81aa45453cf65245eac27919640181b4a2b16459cf661b92216123",
+        "size_in_bytes": 2192
+      },
+      {
+        "_path": "Lib/site-packages/PIL/ImageShow.py",
+        "path_type": "hardlink",
+        "sha256": "22330ba60279d2945873e7fbfb1665ceaaebc060467fe3ffbfc1e85f821804d6",
+        "sha256_in_prefix": "22330ba60279d2945873e7fbfb1665ceaaebc060467fe3ffbfc1e85f821804d6",
+        "size_in_bytes": 8392
+      },
+      {
+        "_path": "Lib/site-packages/PIL/ImageStat.py",
+        "path_type": "hardlink",
+        "sha256": "22662c418ea521d86df3fa4d9a87c75c7333fed5a5b15ddcb767870dbc740c40",
+        "sha256_in_prefix": "22662c418ea521d86df3fa4d9a87c75c7333fed5a5b15ddcb767870dbc740c40",
+        "size_in_bytes": 3724
+      },
+      {
+        "_path": "Lib/site-packages/PIL/ImageTk.py",
+        "path_type": "hardlink",
+        "sha256": "bfb529aa0bcbb1c4eb737c281bfab41d02e5017d4964c823de7997562dab25bd",
+        "sha256_in_prefix": "bfb529aa0bcbb1c4eb737c281bfab41d02e5017d4964c823de7997562dab25bd",
+        "size_in_bytes": 8496
+      },
+      {
+        "_path": "Lib/site-packages/PIL/ImageTransform.py",
+        "path_type": "hardlink",
+        "sha256": "41b37281c4f21f309f4a934aef0159409d9d109d5ddae2142546232e5b2f9011",
+        "sha256_in_prefix": "41b37281c4f21f309f4a934aef0159409d9d109d5ddae2142546232e5b2f9011",
+        "size_in_bytes": 3164
+      },
+      {
+        "_path": "Lib/site-packages/PIL/ImageWin.py",
+        "path_type": "hardlink",
+        "sha256": "01e3b7a8fc9e43310e6a035bf4058e8965f667244ae2a4f211781db6d17e6332",
+        "sha256_in_prefix": "01e3b7a8fc9e43310e6a035bf4058e8965f667244ae2a4f211781db6d17e6332",
+        "size_in_bytes": 7226
+      },
+      {
+        "_path": "Lib/site-packages/PIL/ImtImagePlugin.py",
+        "path_type": "hardlink",
+        "sha256": "29bdf2cc64abe06b8dfc3a7ebd0235a1bec75bfb3c6a0aa9d3e80a1bc2eab7b5",
+        "sha256_in_prefix": "29bdf2cc64abe06b8dfc3a7ebd0235a1bec75bfb3c6a0aa9d3e80a1bc2eab7b5",
+        "size_in_bytes": 2614
+      },
+      {
+        "_path": "Lib/site-packages/PIL/IptcImagePlugin.py",
+        "path_type": "hardlink",
+        "sha256": "642c9d7d4b6980f78ccf5a3d160f66904d0752b53ec1452df628e07bb83ba47e",
+        "sha256_in_prefix": "642c9d7d4b6980f78ccf5a3d160f66904d0752b53ec1452df628e07bb83ba47e",
+        "size_in_bytes": 6135
+      },
+      {
+        "_path": "Lib/site-packages/PIL/Jpeg2KImagePlugin.py",
+        "path_type": "hardlink",
+        "sha256": "c177a6d06a48ca67eaad2366039a36f87daad1821e04fc464fd178ab91fd1ab4",
+        "sha256_in_prefix": "c177a6d06a48ca67eaad2366039a36f87daad1821e04fc464fd178ab91fd1ab4",
+        "size_in_bytes": 11573
+      },
+      {
+        "_path": "Lib/site-packages/PIL/JpegImagePlugin.py",
+        "path_type": "hardlink",
+        "sha256": "1ec154d3c62f80a6ef788d7b9fe5ebf913868585ebabc6010fad850e9da332b8",
+        "sha256_in_prefix": "1ec154d3c62f80a6ef788d7b9fe5ebf913868585ebabc6010fad850e9da332b8",
+        "size_in_bytes": 29578
+      },
+      {
+        "_path": "Lib/site-packages/PIL/JpegPresets.py",
+        "path_type": "hardlink",
+        "sha256": "f53508767a562501ed7b0e4c87ffedec61398f22d95678a5589dbc059be1942e",
+        "sha256_in_prefix": "f53508767a562501ed7b0e4c87ffedec61398f22d95678a5589dbc059be1942e",
+        "size_in_bytes": 12378
+      },
+      {
+        "_path": "Lib/site-packages/PIL/McIdasImagePlugin.py",
+        "path_type": "hardlink",
+        "sha256": "a8c15a90bee5e1809b6f819a899b76af12dc792e43c23f8f32d16b985dc9cc63",
+        "sha256_in_prefix": "a8c15a90bee5e1809b6f819a899b76af12dc792e43c23f8f32d16b985dc9cc63",
+        "size_in_bytes": 1832
+      },
+      {
+        "_path": "Lib/site-packages/PIL/MicImagePlugin.py",
+        "path_type": "hardlink",
+        "sha256": "821223978ca5fa27dd1fbca48e4a2485dd9d30239ce41a67db08b4149e20a4cf",
+        "sha256_in_prefix": "821223978ca5fa27dd1fbca48e4a2485dd9d30239ce41a67db08b4149e20a4cf",
+        "size_in_bytes": 2615
+      },
+      {
+        "_path": "Lib/site-packages/PIL/MpegImagePlugin.py",
+        "path_type": "hardlink",
+        "sha256": "e1795565b2e36140cb4148895d4ba83dc64a6c2b23acb6f88fcf547be329b67c",
+        "sha256_in_prefix": "e1795565b2e36140cb4148895d4ba83dc64a6c2b23acb6f88fcf547be329b67c",
+        "size_in_bytes": 1858
+      },
+      {
+        "_path": "Lib/site-packages/PIL/MpoImagePlugin.py",
+        "path_type": "hardlink",
+        "sha256": "fcd10b292149aa608d2e1827000ed18cb916528a0aab68077601c3c179c489bc",
+        "sha256_in_prefix": "fcd10b292149aa608d2e1827000ed18cb916528a0aab68077601c3c179c489bc",
+        "size_in_bytes": 6255
+      },
+      {
+        "_path": "Lib/site-packages/PIL/MspImagePlugin.py",
+        "path_type": "hardlink",
+        "sha256": "5929b622f2aad2cee4f74e78f8b98ecfaaec5d909e8cc49f9eb657adc04e283c",
+        "sha256_in_prefix": "5929b622f2aad2cee4f74e78f8b98ecfaaec5d909e8cc49f9eb657adc04e283c",
+        "size_in_bytes": 5648
+      },
+      {
+        "_path": "Lib/site-packages/PIL/PSDraw.py",
+        "path_type": "hardlink",
+        "sha256": "9fe5174675490002db98bdda558273f7f0ff0809290ee9570a71ecd84b1f9fb7",
+        "sha256_in_prefix": "9fe5174675490002db98bdda558273f7f0ff0809290ee9570a71ecd84b1f9fb7",
+        "size_in_bytes": 6560
+      },
+      {
+        "_path": "Lib/site-packages/PIL/PaletteFile.py",
+        "path_type": "hardlink",
+        "sha256": "64cb90a8367b5fd77f73d2d1315ed692ed54eeffeb5481e54f4662a6ee16e048",
+        "sha256_in_prefix": "64cb90a8367b5fd77f73d2d1315ed692ed54eeffeb5481e54f4662a6ee16e048",
+        "size_in_bytes": 1163
+      },
+      {
+        "_path": "Lib/site-packages/PIL/PalmImagePlugin.py",
+        "path_type": "hardlink",
+        "sha256": "4f173c39c0a3c89891f349e940a830d3af89817fe916712ff011ec177728eb83",
+        "sha256_in_prefix": "4f173c39c0a3c89891f349e940a830d3af89817fe916712ff011ec177728eb83",
+        "size_in_bytes": 9179
+      },
+      {
+        "_path": "Lib/site-packages/PIL/PcdImagePlugin.py",
+        "path_type": "hardlink",
+        "sha256": "d1f210faf52f31c0f5dcdaa1624e143424da8f1b19485a9d4274aa04fe15ad2c",
+        "sha256_in_prefix": "d1f210faf52f31c0f5dcdaa1624e143424da8f1b19485a9d4274aa04fe15ad2c",
+        "size_in_bytes": 1531
+      },
+      {
+        "_path": "Lib/site-packages/PIL/PcfFontFile.py",
+        "path_type": "hardlink",
+        "sha256": "34f650d1791b181f2e4e51aa82620f1a4c2e2cc601772903795baf160202ec95",
+        "sha256_in_prefix": "34f650d1791b181f2e4e51aa82620f1a4c2e2cc601772903795baf160202ec95",
+        "size_in_bytes": 7147
+      },
+      {
+        "_path": "Lib/site-packages/PIL/PcxImagePlugin.py",
+        "path_type": "hardlink",
+        "sha256": "67b20d101ad9b7725d6054fbdc7ef8d40d4fec51dde8dfe5acc19dc4223f829e",
+        "sha256_in_prefix": "67b20d101ad9b7725d6054fbdc7ef8d40d4fec51dde8dfe5acc19dc4223f829e",
+        "size_in_bytes": 6057
+      },
+      {
+        "_path": "Lib/site-packages/PIL/PdfImagePlugin.py",
+        "path_type": "hardlink",
+        "sha256": "e9b40df91e3bbbe7c63152ed062ae7f2c57d10d15f0f5dc8a6d27300426a11c7",
+        "sha256_in_prefix": "e9b40df91e3bbbe7c63152ed062ae7f2c57d10d15f0f5dc8a6d27300426a11c7",
+        "size_in_bytes": 8841
+      },
+      {
+        "_path": "Lib/site-packages/PIL/PdfParser.py",
+        "path_type": "hardlink",
+        "sha256": "75ee39c1382e9b598d373054455c5b9f2204f535a1141e256a92564f449c55cc",
+        "sha256_in_prefix": "75ee39c1382e9b598d373054455c5b9f2204f535a1141e256a92564f449c55cc",
+        "size_in_bytes": 34483
+      },
+      {
+        "_path": "Lib/site-packages/PIL/PixarImagePlugin.py",
+        "path_type": "hardlink",
+        "sha256": "fe4c925d73647e43e054b7791ffc578bbbc77c4cbf7d8e365b87c1a367174686",
+        "sha256_in_prefix": "fe4c925d73647e43e054b7791ffc578bbbc77c4cbf7d8e365b87c1a367174686",
+        "size_in_bytes": 1687
+      },
+      {
+        "_path": "Lib/site-packages/PIL/PngImagePlugin.py",
+        "path_type": "hardlink",
+        "sha256": "b59af94124586de66632e1c65bb6741d9e2d8ffece83639858f58a164f34df26",
+        "sha256_in_prefix": "b59af94124586de66632e1c65bb6741d9e2d8ffece83639858f58a164f34df26",
+        "size_in_bytes": 46481
+      },
+      {
+        "_path": "Lib/site-packages/PIL/PpmImagePlugin.py",
+        "path_type": "hardlink",
+        "sha256": "a3d366d98ed1daec391ed631f9c24a44cb267a87f6cd70367dacc1d77782cf51",
+        "sha256_in_prefix": "a3d366d98ed1daec391ed631f9c24a44cb267a87f6cd70367dacc1d77782cf51",
+        "size_in_bytes": 11359
+      },
+      {
+        "_path": "Lib/site-packages/PIL/PsdImagePlugin.py",
+        "path_type": "hardlink",
+        "sha256": "2031d1410acffbe4daa8d7f8e6b33ea169c3ad236b3d404f018cf0d80dfcdf9f",
+        "sha256_in_prefix": "2031d1410acffbe4daa8d7f8e6b33ea169c3ad236b3d404f018cf0d80dfcdf9f",
+        "size_in_bytes": 7697
+      },
+      {
+        "_path": "Lib/site-packages/PIL/PyAccess.py",
+        "path_type": "hardlink",
+        "sha256": "974bfa49dd216bcd103384d42d7b8aeedfcf876570346fcccc63aec21423d92f",
+        "sha256_in_prefix": "974bfa49dd216bcd103384d42d7b8aeedfcf876570346fcccc63aec21423d92f",
+        "size_in_bytes": 9909
+      },
+      {
+        "_path": "Lib/site-packages/PIL/QoiImagePlugin.py",
+        "path_type": "hardlink",
+        "sha256": "4771103110f837e8f2d66aaea1be31b4bcb395217a0a296388a73b731f3756ab",
+        "sha256_in_prefix": "4771103110f837e8f2d66aaea1be31b4bcb395217a0a296388a73b731f3756ab",
+        "size_in_bytes": 3670
+      },
+      {
+        "_path": "Lib/site-packages/PIL/SgiImagePlugin.py",
+        "path_type": "hardlink",
+        "sha256": "8aba59a6b45710cd351a37168303b98656d6c3546e606306f509710de07678ca",
+        "sha256_in_prefix": "8aba59a6b45710cd351a37168303b98656d6c3546e606306f509710de07678ca",
+        "size_in_bytes": 6184
+      },
+      {
+        "_path": "Lib/site-packages/PIL/SpiderImagePlugin.py",
+        "path_type": "hardlink",
+        "sha256": "5a889243e3d7df4bf9651f28102144a3fcf9b4ba1b7954b5319416a7cb842f66",
+        "sha256_in_prefix": "5a889243e3d7df4bf9651f28102144a3fcf9b4ba1b7954b5319416a7cb842f66",
+        "size_in_bytes": 9467
+      },
+      {
+        "_path": "Lib/site-packages/PIL/SunImagePlugin.py",
+        "path_type": "hardlink",
+        "sha256": "672cddfe7f0e55a0ff10250f31d83b61588655f44b851fb66fccfabcf6024cbe",
+        "sha256_in_prefix": "672cddfe7f0e55a0ff10250f31d83b61588655f44b851fb66fccfabcf6024cbe",
+        "size_in_bytes": 4440
+      },
+      {
+        "_path": "Lib/site-packages/PIL/TarIO.py",
+        "path_type": "hardlink",
+        "sha256": "a7634a199f7eaca09574b4f905cdcafe6a4d73b491699fdbf60f3acbc58666ea",
+        "sha256_in_prefix": "a7634a199f7eaca09574b4f905cdcafe6a4d73b491699fdbf60f3acbc58666ea",
+        "size_in_bytes": 1739
+      },
+      {
+        "_path": "Lib/site-packages/PIL/TgaImagePlugin.py",
+        "path_type": "hardlink",
+        "sha256": "4a077c666eec2d2642d71a7edf955eda011781a6413efd2cd58a543796723379",
+        "sha256_in_prefix": "4a077c666eec2d2642d71a7edf955eda011781a6413efd2cd58a543796723379",
+        "size_in_bytes": 6615
+      },
+      {
+        "_path": "Lib/site-packages/PIL/TiffImagePlugin.py",
+        "path_type": "hardlink",
+        "sha256": "c626de073d954044971208fca7cefa9d223a3d8e77ab772befa1bc0a5e4d9423",
+        "sha256_in_prefix": "c626de073d954044971208fca7cefa9d223a3d8e77ab772befa1bc0a5e4d9423",
+        "size_in_bytes": 76701
+      },
+      {
+        "_path": "Lib/site-packages/PIL/TiffTags.py",
+        "path_type": "hardlink",
+        "sha256": "6661cbe11e7fc646ff3f01f42b3ecfbbac255fcd209f4f34d32b1a01defd252c",
+        "sha256_in_prefix": "6661cbe11e7fc646ff3f01f42b3ecfbbac255fcd209f4f34d32b1a01defd252c",
+        "size_in_bytes": 16567
+      },
+      {
+        "_path": "Lib/site-packages/PIL/WalImageFile.py",
+        "path_type": "hardlink",
+        "sha256": "1d49d9d3c1674a91722d2f10114017dc77614b416256b11fc1e7336c6995c983",
+        "sha256_in_prefix": "1d49d9d3c1674a91722d2f10114017dc77614b416256b11fc1e7336c6995c983",
+        "size_in_bytes": 5555
+      },
+      {
+        "_path": "Lib/site-packages/PIL/WebPImagePlugin.py",
+        "path_type": "hardlink",
+        "sha256": "bbcbcfacd25789a034c8b22fe90b69c6fdd880dd13d2fbde51f17b488187fb68",
+        "sha256_in_prefix": "bbcbcfacd25789a034c8b22fe90b69c6fdd880dd13d2fbde51f17b488187fb68",
+        "size_in_bytes": 11320
+      },
+      {
+        "_path": "Lib/site-packages/PIL/WmfImagePlugin.py",
+        "path_type": "hardlink",
+        "sha256": "cdfa8f42a934ac63d0626a0ffe0d1eba83987418d066bd11b421a4de7d8ec638",
+        "sha256_in_prefix": "cdfa8f42a934ac63d0626a0ffe0d1eba83987418d066bd11b421a4de7d8ec638",
+        "size_in_bytes": 4726
+      },
+      {
+        "_path": "Lib/site-packages/PIL/XVThumbImagePlugin.py",
+        "path_type": "hardlink",
+        "sha256": "432742fb8212c983085960981155d9441aa0a2ebfb4bc706ed2ab6db6c0d93c0",
+        "sha256_in_prefix": "432742fb8212c983085960981155d9441aa0a2ebfb4bc706ed2ab6db6c0d93c0",
+        "size_in_bytes": 2022
+      },
+      {
+        "_path": "Lib/site-packages/PIL/XbmImagePlugin.py",
+        "path_type": "hardlink",
+        "sha256": "26b35213d81eb01ee311bf7f8812eedf12181e8ce83db4042903657844c95ed4",
+        "sha256_in_prefix": "26b35213d81eb01ee311bf7f8812eedf12181e8ce83db4042903657844c95ed4",
+        "size_in_bytes": 2523
+      },
+      {
+        "_path": "Lib/site-packages/PIL/XpmImagePlugin.py",
+        "path_type": "hardlink",
+        "sha256": "3fa44dad0425928fb584ab4a440cda77a455510ec9ae3522cc3fffeb365e4f53",
+        "sha256_in_prefix": "3fa44dad0425928fb584ab4a440cda77a455510ec9ae3522cc3fffeb365e4f53",
+        "size_in_bytes": 3219
+      },
+      {
+        "_path": "Lib/site-packages/PIL/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "c499bf96823dc5c7dc9b5fec6bd97c9971fb9757fde7bdd09e1716fe7817f72f",
+        "sha256_in_prefix": "c499bf96823dc5c7dc9b5fec6bd97c9971fb9757fde7bdd09e1716fe7817f72f",
+        "size_in_bytes": 2014
+      },
+      {
+        "_path": "Lib/site-packages/PIL/__main__.py",
+        "path_type": "hardlink",
+        "sha256": "2e22460cfc20d3aed9692c33bd85f35ecbacbcd0af393dd2819a7dfd8c062e92",
+        "sha256_in_prefix": "2e22460cfc20d3aed9692c33bd85f35ecbacbcd0af393dd2819a7dfd8c062e92",
+        "size_in_bytes": 77
+      },
+      {
+        "_path": "Lib/site-packages/PIL/__pycache__/BdfFontFile.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "42bfa656016ec5ab083a21a582dccb02e99fc658a81a67ecff0e59c17627aa83",
+        "sha256_in_prefix": "42bfa656016ec5ab083a21a582dccb02e99fc658a81a67ecff0e59c17627aa83",
+        "size_in_bytes": 4298
+      },
+      {
+        "_path": "Lib/site-packages/PIL/__pycache__/BlpImagePlugin.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "d4edf0c59501ee706d0c5ab2a893332d05f8c105aa77bfcd5853f76cd7686c81",
+        "sha256_in_prefix": "d4edf0c59501ee706d0c5ab2a893332d05f8c105aa77bfcd5853f76cd7686c81",
+        "size_in_bytes": 22837
+      },
+      {
+        "_path": "Lib/site-packages/PIL/__pycache__/BmpImagePlugin.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "9ddb424c5fdd69e58e6b1f12f00932f994eb3d1587cf3e2088aea0ca9d3e35d0",
+        "sha256_in_prefix": "9ddb424c5fdd69e58e6b1f12f00932f994eb3d1587cf3e2088aea0ca9d3e35d0",
+        "size_in_bytes": 16236
+      },
+      {
+        "_path": "Lib/site-packages/PIL/__pycache__/BufrStubImagePlugin.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "c2118f7075d4dad8440cadfc453bd10af270ea036f413de103c8e5833ee7fc2d",
+        "sha256_in_prefix": "c2118f7075d4dad8440cadfc453bd10af270ea036f413de103c8e5833ee7fc2d",
+        "size_in_bytes": 2427
+      },
+      {
+        "_path": "Lib/site-packages/PIL/__pycache__/ContainerIO.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "66e7ca2ce50569e099f1d1bdba8d715a6877a9e4cc2c365c92afe8b076c37bbd",
+        "sha256_in_prefix": "66e7ca2ce50569e099f1d1bdba8d715a6877a9e4cc2c365c92afe8b076c37bbd",
+        "size_in_bytes": 4235
+      },
+      {
+        "_path": "Lib/site-packages/PIL/__pycache__/CurImagePlugin.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "67a1bf6104095ce4f13e6626e20f176a2cb15270ac64f664669bbabeb9317615",
+        "sha256_in_prefix": "67a1bf6104095ce4f13e6626e20f176a2cb15270ac64f664669bbabeb9317615",
+        "size_in_bytes": 2193
+      },
+      {
+        "_path": "Lib/site-packages/PIL/__pycache__/DcxImagePlugin.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "d79ca3b6be03cdb5c5be4fa462da33962b6bd04ee512d1514205b0588e52bac3",
+        "sha256_in_prefix": "d79ca3b6be03cdb5c5be4fa462da33962b6bd04ee512d1514205b0588e52bac3",
+        "size_in_bytes": 2561
+      },
+      {
+        "_path": "Lib/site-packages/PIL/__pycache__/DdsImagePlugin.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "63bb721c8ccceac5cdb1bfc94bc9545d687f5abb946a19b8a5ec46f3e76e6bfe",
+        "sha256_in_prefix": "63bb721c8ccceac5cdb1bfc94bc9545d687f5abb946a19b8a5ec46f3e76e6bfe",
+        "size_in_bytes": 22236
+      },
+      {
+        "_path": "Lib/site-packages/PIL/__pycache__/EpsImagePlugin.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "1818f612989258bf15ef71cd3914db0c59497ad80749f46118dd00049a818594",
+        "sha256_in_prefix": "1818f612989258bf15ef71cd3914db0c59497ad80749f46118dd00049a818594",
+        "size_in_bytes": 16038
+      },
+      {
+        "_path": "Lib/site-packages/PIL/__pycache__/ExifTags.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "9e6cadf7ef68abccfd816860711b149d44ace5e3efe7c5eff0916b1d11b2cba2",
+        "sha256_in_prefix": "9e6cadf7ef68abccfd816860711b149d44ace5e3efe7c5eff0916b1d11b2cba2",
+        "size_in_bytes": 11490
+      },
+      {
+        "_path": "Lib/site-packages/PIL/__pycache__/FitsImagePlugin.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "a79f97538f7ecc2df1d63ed70b14f9d272fcacc99ceec05deeb58046f0ae309f",
+        "sha256_in_prefix": "a79f97538f7ecc2df1d63ed70b14f9d272fcacc99ceec05deeb58046f0ae309f",
+        "size_in_bytes": 2716
+      },
+      {
+        "_path": "Lib/site-packages/PIL/__pycache__/FliImagePlugin.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "038c01e4cc31fb1d69a85b741fa63eac0922293cc4fefb5112dd9ecaa27ddf0c",
+        "sha256_in_prefix": "038c01e4cc31fb1d69a85b741fa63eac0922293cc4fefb5112dd9ecaa27ddf0c",
+        "size_in_bytes": 6338
+      },
+      {
+        "_path": "Lib/site-packages/PIL/__pycache__/FontFile.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "6e5f3a88a6cefa019f5c6277c4cad09b279b21782867b28ac8201c38e91a872e",
+        "sha256_in_prefix": "6e5f3a88a6cefa019f5c6277c4cad09b279b21782867b28ac8201c38e91a872e",
+        "size_in_bytes": 4474
+      },
+      {
+        "_path": "Lib/site-packages/PIL/__pycache__/FpxImagePlugin.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "b584847e4e0348ecc708312963c1f8ba30c65dd64d8e1916298673ed8be8e6bc",
+        "sha256_in_prefix": "b584847e4e0348ecc708312963c1f8ba30c65dd64d8e1916298673ed8be8e6bc",
+        "size_in_bytes": 7124
+      },
+      {
+        "_path": "Lib/site-packages/PIL/__pycache__/FtexImagePlugin.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "2f3ff647f8125bfad13bb6f4213f58e8793f7803a4b0ed6181906def76eaa814",
+        "sha256_in_prefix": "2f3ff647f8125bfad13bb6f4213f58e8793f7803a4b0ed6181906def76eaa814",
+        "size_in_bytes": 5070
+      },
+      {
+        "_path": "Lib/site-packages/PIL/__pycache__/GbrImagePlugin.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "eebffbf5e2e35317f2e69e243473ee4cc754f2a246ffb771bad75bb239f5ffef",
+        "sha256_in_prefix": "eebffbf5e2e35317f2e69e243473ee4cc754f2a246ffb771bad75bb239f5ffef",
+        "size_in_bytes": 3553
+      },
+      {
+        "_path": "Lib/site-packages/PIL/__pycache__/GdImageFile.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "4e9bb9670e0cef13e014b6fae4b667cfa62a5009d8212d318685273ef95cdfc4",
+        "sha256_in_prefix": "4e9bb9670e0cef13e014b6fae4b667cfa62a5009d8212d318685273ef95cdfc4",
+        "size_in_bytes": 3123
+      },
+      {
+        "_path": "Lib/site-packages/PIL/__pycache__/GifImagePlugin.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "1ee134356d7b151c7857548f345c33ce7e47e22227e56a2169172935413071a4",
+        "sha256_in_prefix": "1ee134356d7b151c7857548f345c33ce7e47e22227e56a2169172935413071a4",
+        "size_in_bytes": 38922
+      },
+      {
+        "_path": "Lib/site-packages/PIL/__pycache__/GimpGradientFile.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "a0e38c9fda812da041ebeecf3295ba96e4ed026f5ab74a8eafb03b1ff6ad5f7f",
+        "sha256_in_prefix": "a0e38c9fda812da041ebeecf3295ba96e4ed026f5ab74a8eafb03b1ff6ad5f7f",
+        "size_in_bytes": 5039
+      },
+      {
+        "_path": "Lib/site-packages/PIL/__pycache__/GimpPaletteFile.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "1138a5e8416f246893b734504ffd03ee123c2b94ecae4b0e451bfaeff2c29b59",
+        "sha256_in_prefix": "1138a5e8416f246893b734504ffd03ee123c2b94ecae4b0e451bfaeff2c29b59",
+        "size_in_bytes": 2013
+      },
+      {
+        "_path": "Lib/site-packages/PIL/__pycache__/GribStubImagePlugin.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "b37f96abede7f467de257f6555f101e9db79b47c704ad2f9c9218fab533165ea",
+        "sha256_in_prefix": "b37f96abede7f467de257f6555f101e9db79b47c704ad2f9c9218fab533165ea",
+        "size_in_bytes": 2425
+      },
+      {
+        "_path": "Lib/site-packages/PIL/__pycache__/Hdf5StubImagePlugin.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "4407365259493012a47fad7eaaabf0137cb22e962392551de2d95f21b0e37a97",
+        "sha256_in_prefix": "4407365259493012a47fad7eaaabf0137cb22e962392551de2d95f21b0e37a97",
+        "size_in_bytes": 2400
+      },
+      {
+        "_path": "Lib/site-packages/PIL/__pycache__/IcnsImagePlugin.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "18e2c0e6fa2206ec7fda3e219f7542988e0faa891c3dc6266d2461cfb59559c2",
+        "sha256_in_prefix": "18e2c0e6fa2206ec7fda3e219f7542988e0faa891c3dc6266d2461cfb59559c2",
+        "size_in_bytes": 16561
+      },
+      {
+        "_path": "Lib/site-packages/PIL/__pycache__/IcoImagePlugin.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "86c9597bdf06d7f5d0e6e1d6af15527912b87741d87d744e9c29f7ec16204c38",
+        "sha256_in_prefix": "86c9597bdf06d7f5d0e6e1d6af15527912b87741d87d744e9c29f7ec16204c38",
+        "size_in_bytes": 13800
+      },
+      {
+        "_path": "Lib/site-packages/PIL/__pycache__/ImImagePlugin.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "bd3ef95fbfc7fceef13677197172744a7dd8a92285d2de96fe94eddd98a04dfe",
+        "sha256_in_prefix": "bd3ef95fbfc7fceef13677197172744a7dd8a92285d2de96fe94eddd98a04dfe",
+        "size_in_bytes": 12016
+      },
+      {
+        "_path": "Lib/site-packages/PIL/__pycache__/Image.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "ff097cc4f1cc5ef42cc8d268b580426a5dc492ca9b7b936e42c2f802372ae985",
+        "sha256_in_prefix": "ff097cc4f1cc5ef42cc8d268b580426a5dc492ca9b7b936e42c2f802372ae985",
+        "size_in_bytes": 158415
+      },
+      {
+        "_path": "Lib/site-packages/PIL/__pycache__/ImageChops.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "ae598b26fcfda483654db48d69a9900bba673ae0fbe0eb212f4eb78165f9f949",
+        "sha256_in_prefix": "ae598b26fcfda483654db48d69a9900bba673ae0fbe0eb212f4eb78165f9f949",
+        "size_in_bytes": 11183
+      },
+      {
+        "_path": "Lib/site-packages/PIL/__pycache__/ImageCms.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "190eddc5163495f694de87912e4f4f3d90007e1264335d7dd567499ed21e25f3",
+        "sha256_in_prefix": "190eddc5163495f694de87912e4f4f3d90007e1264335d7dd567499ed21e25f3",
+        "size_in_bytes": 39654
+      },
+      {
+        "_path": "Lib/site-packages/PIL/__pycache__/ImageColor.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "6a21671b3d2c4499aa0493a76f91fa5e061f315879deb7bce9d79d1c4861b5bc",
+        "sha256_in_prefix": "6a21671b3d2c4499aa0493a76f91fa5e061f315879deb7bce9d79d1c4861b5bc",
+        "size_in_bytes": 12111
+      },
+      {
+        "_path": "Lib/site-packages/PIL/__pycache__/ImageDraw.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "64df4401c437a81304df0a805381fed6f17b7351baaef7e511699029abfec9c9",
+        "sha256_in_prefix": "64df4401c437a81304df0a805381fed6f17b7351baaef7e511699029abfec9c9",
+        "size_in_bytes": 37063
+      },
+      {
+        "_path": "Lib/site-packages/PIL/__pycache__/ImageDraw2.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "260d14a3fc87871db5346011cb27b6bc082c7847d2ae628a81a083c42837b688",
+        "sha256_in_prefix": "260d14a3fc87871db5346011cb27b6bc082c7847d2ae628a81a083c42837b688",
+        "size_in_bytes": 7946
+      },
+      {
+        "_path": "Lib/site-packages/PIL/__pycache__/ImageEnhance.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "3e5677902853e4a492e7dd0ef41e47573525798430e1405ab6133648ca987879",
+        "sha256_in_prefix": "3e5677902853e4a492e7dd0ef41e47573525798430e1405ab6133648ca987879",
+        "size_in_bytes": 4833
+      },
+      {
+        "_path": "Lib/site-packages/PIL/__pycache__/ImageFile.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "ddf06ed8d8658ad1be42b5f280de838efb8e0785bd615b62e275e547a9166a14",
+        "sha256_in_prefix": "ddf06ed8d8658ad1be42b5f280de838efb8e0785bd615b62e275e547a9166a14",
+        "size_in_bytes": 28726
+      },
+      {
+        "_path": "Lib/site-packages/PIL/__pycache__/ImageFilter.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "8244194830ef9645886a91e2646d52c3b6af387e0c97270cf188897352bd6b3b",
+        "sha256_in_prefix": "8244194830ef9645886a91e2646d52c3b6af387e0c97270cf188897352bd6b3b",
+        "size_in_bytes": 21269
+      },
+      {
+        "_path": "Lib/site-packages/PIL/__pycache__/ImageFont.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "84edb0a1e17cc67f22017a2e2294ab8b5f2977549108bf466d0534b8619c346b",
+        "sha256_in_prefix": "84edb0a1e17cc67f22017a2e2294ab8b5f2977549108bf466d0534b8619c346b",
+        "size_in_bytes": 64418
+      },
+      {
+        "_path": "Lib/site-packages/PIL/__pycache__/ImageGrab.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "93a9bd3a4d155d588c27887938ba9f1d15eabcb09c2fcd4b358b7cfbe05b7aec",
+        "sha256_in_prefix": "93a9bd3a4d155d588c27887938ba9f1d15eabcb09c2fcd4b358b7cfbe05b7aec",
+        "size_in_bytes": 6721
+      },
+      {
+        "_path": "Lib/site-packages/PIL/__pycache__/ImageMath.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "07a73abd05a1fc6460e148396b554e228b6b87f3381bb9bd337d83ac53cd6b25",
+        "sha256_in_prefix": "07a73abd05a1fc6460e148396b554e228b6b87f3381bb9bd337d83ac53cd6b25",
+        "size_in_bytes": 12652
+      },
+      {
+        "_path": "Lib/site-packages/PIL/__pycache__/ImageMode.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "e244694fc6301c2d2c273d58b7ca6b5577f6bb940ef0af806a84c8da0e6015d6",
+        "sha256_in_prefix": "e244694fc6301c2d2c273d58b7ca6b5577f6bb940ef0af806a84c8da0e6015d6",
+        "size_in_bytes": 2876
+      },
+      {
+        "_path": "Lib/site-packages/PIL/__pycache__/ImageMorph.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "225eefddf129a37089f6fb2567df87d96310feb29fe31a7ad285bd8672dc0060",
+        "sha256_in_prefix": "225eefddf129a37089f6fb2567df87d96310feb29fe31a7ad285bd8672dc0060",
+        "size_in_bytes": 10731
+      },
+      {
+        "_path": "Lib/site-packages/PIL/__pycache__/ImageOps.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "1e7ed98a675319c157eca8121d5cb6a30c841ecee14cf2ce21aceaa7ea9dbe53",
+        "sha256_in_prefix": "1e7ed98a675319c157eca8121d5cb6a30c841ecee14cf2ce21aceaa7ea9dbe53",
+        "size_in_bytes": 26335
+      },
+      {
+        "_path": "Lib/site-packages/PIL/__pycache__/ImagePalette.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "2713233d7f89dce66cfbe8a8f5d8eb4b89aa72c40feeb7c35ae872258d611e9a",
+        "sha256_in_prefix": "2713233d7f89dce66cfbe8a8f5d8eb4b89aa72c40feeb7c35ae872258d611e9a",
+        "size_in_bytes": 11064
+      },
+      {
+        "_path": "Lib/site-packages/PIL/__pycache__/ImagePath.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "7c3d34500f776591a226f00908aecb25e51948bc4b5584a18991719f1cb3d969",
+        "sha256_in_prefix": "7c3d34500f776591a226f00908aecb25e51948bc4b5584a18991719f1cb3d969",
+        "size_in_bytes": 293
+      },
+      {
+        "_path": "Lib/site-packages/PIL/__pycache__/ImageQt.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "29eb5c167a78b593e183b6d20287e0bdd3ea27c0a54db29c96d9ac2885732592",
+        "sha256_in_prefix": "29eb5c167a78b593e183b6d20287e0bdd3ea27c0a54db29c96d9ac2885732592",
+        "size_in_bytes": 7112
+      },
+      {
+        "_path": "Lib/site-packages/PIL/__pycache__/ImageSequence.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "fc24c473af5531d92d6ff3577cf4ca50ae275628eab5b19fefe4c9dde98ebe34",
+        "sha256_in_prefix": "fc24c473af5531d92d6ff3577cf4ca50ae275628eab5b19fefe4c9dde98ebe34",
+        "size_in_bytes": 3308
+      },
+      {
+        "_path": "Lib/site-packages/PIL/__pycache__/ImageShow.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "2f5160746ee6a89c695f53ea8df1f14a69c84b29cc8bc535257c6a871211f608",
+        "sha256_in_prefix": "2f5160746ee6a89c695f53ea8df1f14a69c84b29cc8bc535257c6a871211f608",
+        "size_in_bytes": 11564
+      },
+      {
+        "_path": "Lib/site-packages/PIL/__pycache__/ImageStat.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "3b16236f325d65812f22aff11cf184efbc7cace15d65f5261632378b4f94120a",
+        "sha256_in_prefix": "3b16236f325d65812f22aff11cf184efbc7cace15d65f5261632378b4f94120a",
+        "size_in_bytes": 5822
+      },
+      {
+        "_path": "Lib/site-packages/PIL/__pycache__/ImageTk.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "da77f811b525ed253ca20f7678362e9544b6c3cb37f085aad6a829a9c6bba1f8",
+        "sha256_in_prefix": "da77f811b525ed253ca20f7678362e9544b6c3cb37f085aad6a829a9c6bba1f8",
+        "size_in_bytes": 10333
+      },
+      {
+        "_path": "Lib/site-packages/PIL/__pycache__/ImageTransform.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "9c476e437fe28390995d13d7de1a4077190cc9517d9b89a7f49013331ea7d4ce",
+        "sha256_in_prefix": "9c476e437fe28390995d13d7de1a4077190cc9517d9b89a7f49013331ea7d4ce",
+        "size_in_bytes": 4398
+      },
+      {
+        "_path": "Lib/site-packages/PIL/__pycache__/ImageWin.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "8203613e239ef0d5f644a7bd378007a9fc1b8d3fe4cfb9940794b59635f406db",
+        "sha256_in_prefix": "8203613e239ef0d5f644a7bd378007a9fc1b8d3fe4cfb9940794b59635f406db",
+        "size_in_bytes": 10670
+      },
+      {
+        "_path": "Lib/site-packages/PIL/__pycache__/ImtImagePlugin.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "2ec15ed53b4c8a3f0acba1b4ac369d7e4a712bd65d0b76022c30729ff9d04e92",
+        "sha256_in_prefix": "2ec15ed53b4c8a3f0acba1b4ac369d7e4a712bd65d0b76022c30729ff9d04e92",
+        "size_in_bytes": 2388
+      },
+      {
+        "_path": "Lib/site-packages/PIL/__pycache__/IptcImagePlugin.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "bf3e626fc817fa633dce0cceccf53576822a420a6d4637db8da1b0459a7c274d",
+        "sha256_in_prefix": "bf3e626fc817fa633dce0cceccf53576822a420a6d4637db8da1b0459a7c274d",
+        "size_in_bytes": 8278
+      },
+      {
+        "_path": "Lib/site-packages/PIL/__pycache__/Jpeg2KImagePlugin.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "56e90beeb3bdbc93bbacf506c76f0a3e3e61ce23b75a7324ef9afb0b6e021dee",
+        "sha256_in_prefix": "56e90beeb3bdbc93bbacf506c76f0a3e3e61ce23b75a7324ef9afb0b6e021dee",
+        "size_in_bytes": 15418
+      },
+      {
+        "_path": "Lib/site-packages/PIL/__pycache__/JpegImagePlugin.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "6cdcad5e8a699caa8df9ba3acfcd800f6f1e937967f380719f4fae4d052d3976",
+        "sha256_in_prefix": "6cdcad5e8a699caa8df9ba3acfcd800f6f1e937967f380719f4fae4d052d3976",
+        "size_in_bytes": 31155
+      },
+      {
+        "_path": "Lib/site-packages/PIL/__pycache__/JpegPresets.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "504906c795c33d71b21fa57d89032783c1de61c36bba2704f80b1401aa487f7f",
+        "sha256_in_prefix": "504906c795c33d71b21fa57d89032783c1de61c36bba2704f80b1401aa487f7f",
+        "size_in_bytes": 8072
+      },
+      {
+        "_path": "Lib/site-packages/PIL/__pycache__/McIdasImagePlugin.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "7bfccd80c2bfe3f5d15fd6e0fdf613b6cb96de8de5128e45241e53a63aa0dcdb",
+        "sha256_in_prefix": "7bfccd80c2bfe3f5d15fd6e0fdf613b6cb96de8de5128e45241e53a63aa0dcdb",
+        "size_in_bytes": 2029
+      },
+      {
+        "_path": "Lib/site-packages/PIL/__pycache__/MicImagePlugin.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "82d2fa3f73a56e2d7b77bed67e5868870ab1dad352017c0e3eb8be69568757b3",
+        "sha256_in_prefix": "82d2fa3f73a56e2d7b77bed67e5868870ab1dad352017c0e3eb8be69568757b3",
+        "size_in_bytes": 3620
+      },
+      {
+        "_path": "Lib/site-packages/PIL/__pycache__/MpegImagePlugin.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "1e2e2e8e8c95d77b316b57c53bab0a601ed922297a09139e0744d42d3c28cd8a",
+        "sha256_in_prefix": "1e2e2e8e8c95d77b316b57c53bab0a601ed922297a09139e0744d42d3c28cd8a",
+        "size_in_bytes": 3234
+      },
+      {
+        "_path": "Lib/site-packages/PIL/__pycache__/MpoImagePlugin.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "c0d72bc9172f10fd8e4fcc4b4d6eaf439817a95553d98a06aa9558b051cb0a98",
+        "sha256_in_prefix": "c0d72bc9172f10fd8e4fcc4b4d6eaf439817a95553d98a06aa9558b051cb0a98",
+        "size_in_bytes": 8193
+      },
+      {
+        "_path": "Lib/site-packages/PIL/__pycache__/MspImagePlugin.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "03adb55abff50ab07631c51d92d4ad609e3513a935fde94171858ed11c231c7f",
+        "sha256_in_prefix": "03adb55abff50ab07631c51d92d4ad609e3513a935fde94171858ed11c231c7f",
+        "size_in_bytes": 5475
+      },
+      {
+        "_path": "Lib/site-packages/PIL/__pycache__/PSDraw.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "a31829166b91a6955c881b1fd75e7a05c98488d1d1b0e0937de105cc9c98a3b0",
+        "sha256_in_prefix": "a31829166b91a6955c881b1fd75e7a05c98488d1d1b0e0937de105cc9c98a3b0",
+        "size_in_bytes": 7571
+      },
+      {
+        "_path": "Lib/site-packages/PIL/__pycache__/PaletteFile.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "788c8e2132e47b7019198886667fba53b726ade01be6944f64e759f384a0d067",
+        "sha256_in_prefix": "788c8e2132e47b7019198886667fba53b726ade01be6944f64e759f384a0d067",
+        "size_in_bytes": 1783
+      },
+      {
+        "_path": "Lib/site-packages/PIL/__pycache__/PalmImagePlugin.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "ff8a2779144aade3f9e8a7408db31e6645ebf288c14fc97cd2d78e6e7d8a5517",
+        "sha256_in_prefix": "ff8a2779144aade3f9e8a7408db31e6645ebf288c14fc97cd2d78e6e7d8a5517",
+        "size_in_bytes": 9418
+      },
+      {
+        "_path": "Lib/site-packages/PIL/__pycache__/PcdImagePlugin.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "35f6798612b5baae0e8474efaf6b6fcb05cf012b8789cee84c820f51fae4d69b",
+        "sha256_in_prefix": "35f6798612b5baae0e8474efaf6b6fcb05cf012b8789cee84c820f51fae4d69b",
+        "size_in_bytes": 1868
+      },
+      {
+        "_path": "Lib/site-packages/PIL/__pycache__/PcfFontFile.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "ba865c4847fda650a743b85d1ce5164bc5b714913faa39d9dc8fd6999bde2962",
+        "sha256_in_prefix": "ba865c4847fda650a743b85d1ce5164bc5b714913faa39d9dc8fd6999bde2962",
+        "size_in_bytes": 9894
+      },
+      {
+        "_path": "Lib/site-packages/PIL/__pycache__/PcxImagePlugin.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "68fabf88c1335b5edb646762a250f685662f657fb14ba91dd9d2eea3f32238f0",
+        "sha256_in_prefix": "68fabf88c1335b5edb646762a250f685662f657fb14ba91dd9d2eea3f32238f0",
+        "size_in_bytes": 7036
+      },
+      {
+        "_path": "Lib/site-packages/PIL/__pycache__/PdfImagePlugin.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "0b05c608c07fa8ed378205b2a1616f6978da8ff212a83500d8cfb9e646f01eb9",
+        "sha256_in_prefix": "0b05c608c07fa8ed378205b2a1616f6978da8ff212a83500d8cfb9e646f01eb9",
+        "size_in_bytes": 9155
+      },
+      {
+        "_path": "Lib/site-packages/PIL/__pycache__/PdfParser.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "471c88dbc5607fb97571bf199d2cf79a443791a311d5e660cff509c357bcfe8e",
+        "sha256_in_prefix": "471c88dbc5607fb97571bf199d2cf79a443791a311d5e660cff509c357bcfe8e",
+        "size_in_bytes": 49505
+      },
+      {
+        "_path": "Lib/site-packages/PIL/__pycache__/PixarImagePlugin.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "a09bd560b59314bc1710f3d0c0b4ba2ef1c769436045cfae96c80c09318580db",
+        "sha256_in_prefix": "a09bd560b59314bc1710f3d0c0b4ba2ef1c769436045cfae96c80c09318580db",
+        "size_in_bytes": 1767
+      },
+      {
+        "_path": "Lib/site-packages/PIL/__pycache__/PngImagePlugin.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "4376d5226203a9846ccb2aff47e3924fd3dfcab271e70d805f2a8cb775cfd621",
+        "sha256_in_prefix": "4376d5226203a9846ccb2aff47e3924fd3dfcab271e70d805f2a8cb775cfd621",
+        "size_in_bytes": 56584
+      },
+      {
+        "_path": "Lib/site-packages/PIL/__pycache__/PpmImagePlugin.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "a26a2b0ae58a59952d6e197710255ca3e3073591271cfe29c67ee57f10b9cc15",
+        "sha256_in_prefix": "a26a2b0ae58a59952d6e197710255ca3e3073591271cfe29c67ee57f10b9cc15",
+        "size_in_bytes": 12732
+      },
+      {
+        "_path": "Lib/site-packages/PIL/__pycache__/PsdImagePlugin.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "995385df2dc2dc852002feaa3ecb1227038c9505c8571c6c507d192d24d247ee",
+        "sha256_in_prefix": "995385df2dc2dc852002feaa3ecb1227038c9505c8571c6c507d192d24d247ee",
+        "size_in_bytes": 9254
+      },
+      {
+        "_path": "Lib/site-packages/PIL/__pycache__/PyAccess.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "4b18b678a9426f1f6bcbff3d2f99d5601b43caf4a1b0a476b592a98f1fe75bbe",
+        "sha256_in_prefix": "4b18b678a9426f1f6bcbff3d2f99d5601b43caf4a1b0a476b592a98f1fe75bbe",
+        "size_in_bytes": 16146
+      },
+      {
+        "_path": "Lib/site-packages/PIL/__pycache__/QoiImagePlugin.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "d5208cb0c21fa8dcfbf3b6dd277c72ffc0d7907bc008c2072874b9e1f8362b41",
+        "sha256_in_prefix": "d5208cb0c21fa8dcfbf3b6dd277c72ffc0d7907bc008c2072874b9e1f8362b41",
+        "size_in_bytes": 6230
+      },
+      {
+        "_path": "Lib/site-packages/PIL/__pycache__/SgiImagePlugin.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "c9428d030d90079dbdaaa760c36226708868c1bedf569d19516e6c7b19783edd",
+        "sha256_in_prefix": "c9428d030d90079dbdaaa760c36226708868c1bedf569d19516e6c7b19783edd",
+        "size_in_bytes": 7826
+      },
+      {
+        "_path": "Lib/site-packages/PIL/__pycache__/SpiderImagePlugin.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "30687c8167bdddb3d524b1bdeb55a3e6217f6f0b49f3ccec33c055cbd5f146c1",
+        "sha256_in_prefix": "30687c8167bdddb3d524b1bdeb55a3e6217f6f0b49f3ccec33c055cbd5f146c1",
+        "size_in_bytes": 11333
+      },
+      {
+        "_path": "Lib/site-packages/PIL/__pycache__/SunImagePlugin.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "381addd4c68bad151d3f0743e7034e50f1dc21c7243f32a733fce5b3c9e96b31",
+        "sha256_in_prefix": "381addd4c68bad151d3f0743e7034e50f1dc21c7243f32a733fce5b3c9e96b31",
+        "size_in_bytes": 3169
+      },
+      {
+        "_path": "Lib/site-packages/PIL/__pycache__/TarIO.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "43052661f6d891c10bce6fde7b21e0195dc8b237388ba6f5303567b227a4b6a1",
+        "sha256_in_prefix": "43052661f6d891c10bce6fde7b21e0195dc8b237388ba6f5303567b227a4b6a1",
+        "size_in_bytes": 2566
+      },
+      {
+        "_path": "Lib/site-packages/PIL/__pycache__/TgaImagePlugin.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "ce17bedc595d3dda2032a079e919d2d3f6e16ef6491a4d83261f5b854923df06",
+        "sha256_in_prefix": "ce17bedc595d3dda2032a079e919d2d3f6e16ef6491a4d83261f5b854923df06",
+        "size_in_bytes": 7517
+      },
+      {
+        "_path": "Lib/site-packages/PIL/__pycache__/TiffImagePlugin.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "a4502ff91cd17ada45aa1f8a22dc51f14d8caf5541a0de839f4e25088399f47a",
+        "sha256_in_prefix": "a4502ff91cd17ada45aa1f8a22dc51f14d8caf5541a0de839f4e25088399f47a",
+        "size_in_bytes": 91989
+      },
+      {
+        "_path": "Lib/site-packages/PIL/__pycache__/TiffTags.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "59a616e5ca98c92136292e759f26d76ed9120aa50bb8a5333b8b9bd46d6a33b0",
+        "sha256_in_prefix": "59a616e5ca98c92136292e759f26d76ed9120aa50bb8a5333b8b9bd46d6a33b0",
+        "size_in_bytes": 17669
+      },
+      {
+        "_path": "Lib/site-packages/PIL/__pycache__/WalImageFile.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "03a2cd31423408ed46ed6562ae184b8a1e7fed605286ffcd746483fe9ad12e8c",
+        "sha256_in_prefix": "03a2cd31423408ed46ed6562ae184b8a1e7fed605286ffcd746483fe9ad12e8c",
+        "size_in_bytes": 3840
+      },
+      {
+        "_path": "Lib/site-packages/PIL/__pycache__/WebPImagePlugin.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "497e9f112d5e3278ee2118c37af1af0e5ecaaa3b9ccbaf3afa7a827058acef6d",
+        "sha256_in_prefix": "497e9f112d5e3278ee2118c37af1af0e5ecaaa3b9ccbaf3afa7a827058acef6d",
+        "size_in_bytes": 14419
+      },
+      {
+        "_path": "Lib/site-packages/PIL/__pycache__/WmfImagePlugin.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "46dce95646a1e97d9257793f1344524a24fc1b842aa06b18d07c9c5f39303471",
+        "sha256_in_prefix": "46dce95646a1e97d9257793f1344524a24fc1b842aa06b18d07c9c5f39303471",
+        "size_in_bytes": 5740
+      },
+      {
+        "_path": "Lib/site-packages/PIL/__pycache__/XVThumbImagePlugin.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "e6c8372022e4ebae589183b50ec68b850f8a2cf38107c69bb207dee067fc98ae",
+        "sha256_in_prefix": "e6c8372022e4ebae589183b50ec68b850f8a2cf38107c69bb207dee067fc98ae",
+        "size_in_bytes": 2421
+      },
+      {
+        "_path": "Lib/site-packages/PIL/__pycache__/XbmImagePlugin.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "9c12d281f58e5f1fec47cea2122fc5609432c3930bdb1a1ce3ee1d4cb28f9e05",
+        "sha256_in_prefix": "9c12d281f58e5f1fec47cea2122fc5609432c3930bdb1a1ce3ee1d4cb28f9e05",
+        "size_in_bytes": 3751
+      },
+      {
+        "_path": "Lib/site-packages/PIL/__pycache__/XpmImagePlugin.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "7a89bda877ed68a957b3d905539c6bb47f0b4103cbca31121895b40889b449c0",
+        "sha256_in_prefix": "7a89bda877ed68a957b3d905539c6bb47f0b4103cbca31121895b40889b449c0",
+        "size_in_bytes": 4074
+      },
+      {
+        "_path": "Lib/site-packages/PIL/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "ff43afc9cf0a16be0452f32449c214e475563c322258ab0e0ef2638102ea5b95",
+        "sha256_in_prefix": "ff43afc9cf0a16be0452f32449c214e475563c322258ab0e0ef2638102ea5b95",
+        "size_in_bytes": 1979
+      },
+      {
+        "_path": "Lib/site-packages/PIL/__pycache__/__main__.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "eff220c60c443ad35d9812f143dec0154aff9da257e29b553904d71deb8688bb",
+        "sha256_in_prefix": "eff220c60c443ad35d9812f143dec0154aff9da257e29b553904d71deb8688bb",
+        "size_in_bytes": 244
+      },
+      {
+        "_path": "Lib/site-packages/PIL/__pycache__/_binary.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "38389c94b13b138041514070f8940c1c16f80ec884106509c20b8c4480da3f73",
+        "sha256_in_prefix": "38389c94b13b138041514070f8940c1c16f80ec884106509c20b8c4480da3f73",
+        "size_in_bytes": 3059
+      },
+      {
+        "_path": "Lib/site-packages/PIL/__pycache__/_deprecate.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "6b1593229100d107bde3a73796ca25d27d789a705a8f6c23310c18a2a0e8adba",
+        "sha256_in_prefix": "6b1593229100d107bde3a73796ca25d27d789a705a8f6c23310c18a2a0e8adba",
+        "size_in_bytes": 2471
+      },
+      {
+        "_path": "Lib/site-packages/PIL/__pycache__/_tkinter_finder.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "20ec333e715720a6689557ef565c3ec36f5dff9c2f71b65392c5add0b0a3072f",
+        "sha256_in_prefix": "20ec333e715720a6689557ef565c3ec36f5dff9c2f71b65392c5add0b0a3072f",
+        "size_in_bytes": 691
+      },
+      {
+        "_path": "Lib/site-packages/PIL/__pycache__/_typing.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "c647c9db0dc07e093fdde3214710024965adfc7fbe7a624045088c4ea994758d",
+        "sha256_in_prefix": "c647c9db0dc07e093fdde3214710024965adfc7fbe7a624045088c4ea994758d",
+        "size_in_bytes": 851
+      },
+      {
+        "_path": "Lib/site-packages/PIL/__pycache__/_util.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "56a9f84a4b73f454aa8d2c8f02a9fe6746be38d486d0ede3cfb7339c35b6ba8c",
+        "sha256_in_prefix": "56a9f84a4b73f454aa8d2c8f02a9fe6746be38d486d0ede3cfb7339c35b6ba8c",
+        "size_in_bytes": 1780
+      },
+      {
+        "_path": "Lib/site-packages/PIL/__pycache__/_version.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "f1a3ae5d75fa16ea1a06d709810cbb825534261c42bfbdc299132862bcb7e1fb",
+        "sha256_in_prefix": "f1a3ae5d75fa16ea1a06d709810cbb825534261c42bfbdc299132862bcb7e1fb",
+        "size_in_bytes": 209
+      },
+      {
+        "_path": "Lib/site-packages/PIL/__pycache__/features.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "9ba5118b9885b057a854a0364a38a7c151e718454fd2f039c7135f31d48f4503",
+        "sha256_in_prefix": "9ba5118b9885b057a854a0364a38a7c151e718454fd2f039c7135f31d48f4503",
+        "size_in_bytes": 12262
+      },
+      {
+        "_path": "Lib/site-packages/PIL/_binary.py",
+        "path_type": "hardlink",
+        "sha256": "daab22472c41ac7c0f066f4e7aa81204dd1b5bf930b2217cf8e980c7380ff92c",
+        "sha256_in_prefix": "daab22472c41ac7c0f066f4e7aa81204dd1b5bf930b2217cf8e980c7380ff92c",
+        "size_in_bytes": 2279
+      },
+      {
+        "_path": "Lib/site-packages/PIL/_deprecate.py",
+        "path_type": "hardlink",
+        "sha256": "2add63bf43d335daaa664b133b683a5c85e09e096452fdc82d143c9e53f520a7",
+        "sha256_in_prefix": "2add63bf43d335daaa664b133b683a5c85e09e096452fdc82d143c9e53f520a7",
+        "size_in_bytes": 2000
+      },
+      {
+        "_path": "Lib/site-packages/PIL/_imaging.cp312-win_amd64.pyd",
+        "path_type": "hardlink",
+        "sha256": "5c080c00031ad4621de9fb3a9a2d3dd06fadce409c9005e498ac941a0b993581",
+        "sha256_in_prefix": "5c080c00031ad4621de9fb3a9a2d3dd06fadce409c9005e498ac941a0b993581",
+        "size_in_bytes": 653312
+      },
+      {
+        "_path": "Lib/site-packages/PIL/_imagingcms.pyi",
+        "path_type": "hardlink",
+        "sha256": "b8de0c519e9abef43b651b064bd9dec85a62efa3989712efed23ab9b04b44ed4",
+        "sha256_in_prefix": "b8de0c519e9abef43b651b064bd9dec85a62efa3989712efed23ab9b04b44ed4",
+        "size_in_bytes": 99
+      },
+      {
+        "_path": "Lib/site-packages/PIL/_imagingft.cp312-win_amd64.pyd",
+        "path_type": "hardlink",
+        "sha256": "b6ff5a9737a8083c16ec9e3f8a61770410a456751a8a037913f38ee914ac6765",
+        "sha256_in_prefix": "b6ff5a9737a8083c16ec9e3f8a61770410a456751a8a037913f38ee914ac6765",
+        "size_in_bytes": 29696
+      },
+      {
+        "_path": "Lib/site-packages/PIL/_imagingft.pyi",
+        "path_type": "hardlink",
+        "sha256": "b8de0c519e9abef43b651b064bd9dec85a62efa3989712efed23ab9b04b44ed4",
+        "sha256_in_prefix": "b8de0c519e9abef43b651b064bd9dec85a62efa3989712efed23ab9b04b44ed4",
+        "size_in_bytes": 99
+      },
+      {
+        "_path": "Lib/site-packages/PIL/_imagingmath.cp312-win_amd64.pyd",
+        "path_type": "hardlink",
+        "sha256": "7540e26f49c94bf0063c1993225ea3b7f1973bf92fad36db39ee41ae30b48bc1",
+        "sha256_in_prefix": "7540e26f49c94bf0063c1993225ea3b7f1973bf92fad36db39ee41ae30b48bc1",
+        "size_in_bytes": 24064
+      },
+      {
+        "_path": "Lib/site-packages/PIL/_imagingmorph.cp312-win_amd64.pyd",
+        "path_type": "hardlink",
+        "sha256": "6dea1f0ef7ff8aafa0fe9fb87379ffddc3a355f508c9991d8ffba3ad6f4e2eab",
+        "sha256_in_prefix": "6dea1f0ef7ff8aafa0fe9fb87379ffddc3a355f508c9991d8ffba3ad6f4e2eab",
+        "size_in_bytes": 13312
+      },
+      {
+        "_path": "Lib/site-packages/PIL/_imagingtk.cp312-win_amd64.pyd",
+        "path_type": "hardlink",
+        "sha256": "74aadbb81147cdd8587b13ba872123b3e4549ff00d9b0a2c2e3d39fca282ec65",
+        "sha256_in_prefix": "74aadbb81147cdd8587b13ba872123b3e4549ff00d9b0a2c2e3d39fca282ec65",
+        "size_in_bytes": 14336
+      },
+      {
+        "_path": "Lib/site-packages/PIL/_tkinter_finder.py",
+        "path_type": "hardlink",
+        "sha256": "4fd98f267d2438c05de38f64b36e9180855ca09755d0fabe848f7a2668abde94",
+        "sha256_in_prefix": "4fd98f267d2438c05de38f64b36e9180855ca09755d0fabe848f7a2668abde94",
+        "size_in_bytes": 539
+      },
+      {
+        "_path": "Lib/site-packages/PIL/_typing.py",
+        "path_type": "hardlink",
+        "sha256": "10ebc08fb67bc854067b8090cc2757adc1f56823700e60fe8a0d69dd8f8b3cb8",
+        "sha256_in_prefix": "10ebc08fb67bc854067b8090cc2757adc1f56823700e60fe8a0d69dd8f8b3cb8",
+        "size_in_bytes": 402
+      },
+      {
+        "_path": "Lib/site-packages/PIL/_util.py",
+        "path_type": "hardlink",
+        "sha256": "9186a2fe488c3f39959a81ceb2ab4d839d7a41cb2e1b29a8504df1061e359cbe",
+        "sha256_in_prefix": "9186a2fe488c3f39959a81ceb2ab4d839d7a41cb2e1b29a8504df1061e359cbe",
+        "size_in_bytes": 823
+      },
+      {
+        "_path": "Lib/site-packages/PIL/_version.py",
+        "path_type": "hardlink",
+        "sha256": "c1301720349c3c28baacddf11b750ea9ecead26a8b8059ac2b153553c33988db",
+        "sha256_in_prefix": "c1301720349c3c28baacddf11b750ea9ecead26a8b8059ac2b153553c33988db",
+        "size_in_bytes": 87
+      },
+      {
+        "_path": "Lib/site-packages/PIL/_webp.cp312-win_amd64.pyd",
+        "path_type": "hardlink",
+        "sha256": "82a546eaff54a0843437edb278e1118fb1d92cf6945f3b99094e85cf8d45c323",
+        "sha256_in_prefix": "82a546eaff54a0843437edb278e1118fb1d92cf6945f3b99094e85cf8d45c323",
+        "size_in_bytes": 20992
+      },
+      {
+        "_path": "Lib/site-packages/PIL/features.py",
+        "path_type": "hardlink",
+        "sha256": "66d214c317304537ff315cd0f4b2db77a94384a914e52435052c6feb56ae6b3a",
+        "sha256_in_prefix": "66d214c317304537ff315cd0f4b2db77a94384a914e52435052c6feb56ae6b3a",
+        "size_in_bytes": 9654
+      },
+      {
+        "_path": "Lib/site-packages/pillow-10.2.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "Lib/site-packages/pillow-10.2.0.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "e706384c6f299d1b6fa782ae657740b372b4bd7938a1a318bf94ac249114758a",
+        "sha256_in_prefix": "e706384c6f299d1b6fa782ae657740b372b4bd7938a1a318bf94ac249114758a",
+        "size_in_bytes": 1446
+      },
+      {
+        "_path": "Lib/site-packages/pillow-10.2.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "faccf19734394cb14017e83f3e208e9f6d136f034cc776a6a055383845c027b5",
+        "sha256_in_prefix": "faccf19734394cb14017e83f3e208e9f6d136f034cc776a6a055383845c027b5",
+        "size_in_bytes": 9890
+      },
+      {
+        "_path": "Lib/site-packages/pillow-10.2.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "3ffe7dd11cc50520a406dbea6aa3513be754728b04c834815a3bdf9879ddb24b",
+        "sha256_in_prefix": "3ffe7dd11cc50520a406dbea6aa3513be754728b04c834815a3bdf9879ddb24b",
+        "size_in_bytes": 13357
+      },
+      {
+        "_path": "Lib/site-packages/pillow-10.2.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/pillow-10.2.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "683ae059f11de4073b589cc7b2bf74adc306887e0c1db017a025a9c8fe421017",
+        "sha256_in_prefix": "683ae059f11de4073b589cc7b2bf74adc306887e0c1db017a025a9c8fe421017",
+        "size_in_bytes": 102
+      },
+      {
+        "_path": "Lib/site-packages/pillow-10.2.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "c110fd78fe4d971181631f49f57a5116f40ab3009997d33e030247fa3e4be0d1",
+        "sha256_in_prefix": "c110fd78fe4d971181631f49f57a5116f40ab3009997d33e030247fa3e4be0d1",
+        "size_in_bytes": 86
+      },
+      {
+        "_path": "Lib/site-packages/pillow-10.2.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "ae266aae4fa1c99aa1e5fd59d19c228b774a7f112c07286ef5c53d20e0c5f8d6",
+        "sha256_in_prefix": "ae266aae4fa1c99aa1e5fd59d19c228b774a7f112c07286ef5c53d20e0c5f8d6",
+        "size_in_bytes": 4
+      },
+      {
+        "_path": "Lib/site-packages/pillow-10.2.0.dist-info/zip-safe",
+        "path_type": "hardlink",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "sha256_in_prefix": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "size_in_bytes": 1
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "5f8ac7a4d55965c31a01a1443e95bf99c0ff0c5507e3fd1ec741628804d06aac",
+  "size": 960112,
+  "subdir": "win-64",
+  "timestamp": 1707233474000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/pillow-10.2.0-py312h2bbff1b_0.conda",
+  "version": "10.2.0"
+}
